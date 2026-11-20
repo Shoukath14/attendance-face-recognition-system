@@ -1,0 +1,24 @@
+# Core dependencies
+numpy>=1.26.0,<2.1.0
+opencv-python>=4.9.0
+onnxruntime>=1.17.0
+pydantic>=2.6.0
+pyyaml>=6.0.1
+
+# Face analysis
+insightface>=0.7.3
+
+# Dashboard and reporting
+streamlit>=1.32.0
+pandas>=2.2.0
+plotly>=5.20.0
+
+# Evaluation and science
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+scipy>=1.12.0
+
+# Dev & testing
+pytest>=8.0.0
+ruff>=0.3.0
+

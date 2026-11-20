@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ruff_cache/
+
+# Data and models
+data/
+models/
+reports/*.csv
+reports/*.png
+*.onnx
+.insightface/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.exe
+.agent/
+docs/0*
+
+
+
